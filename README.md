@@ -3,12 +3,12 @@
 
 This project has some demonstration examples of the use of functional Java interfaces.
 
-- Consumer is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference. 
-- Function is a functional interface that accepts one argument and produces a result.
-- Predicate is a functional interface that represents a predicate (boolean-valued function) of one argument.
-- Supplier is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
+- [Consumer](https://docs.oracle.com/javase/8/docs/api/java/util/function/Consumer.html) is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference. 
+- [Function](https://docs.oracle.com/javase/8/docs/api/java/util/function/Function.html) is a functional interface that accepts one argument and produces a result.
+- [Predicate](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html) is a functional interface that represents a predicate (boolean-valued function) of one argument.
+- [Supplier](https://docs.oracle.com/javase/8/docs/api/java/util/function/Supplier.html) is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
 
-The complete documentation about functional interfaces in Java is available [here](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html)
+The complete documentation about functional interfaces in Java is available [here](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html).
 
 <h3>Next steps</h3>
 
