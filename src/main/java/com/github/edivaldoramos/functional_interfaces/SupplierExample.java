@@ -1,7 +1,6 @@
 package com.github.edivaldoramos.functional_interfaces;
 
 import com.github.edivaldoramos.dto.Product;
-
 import java.util.function.Supplier;
 
 /**

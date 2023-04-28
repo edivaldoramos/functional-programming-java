@@ -2,7 +2,6 @@ package com.github.edivaldoramos.functional_interfaces;
 
 import com.github.edivaldoramos.dto.Product;
 import com.github.edivaldoramos.enums.ProductType;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
